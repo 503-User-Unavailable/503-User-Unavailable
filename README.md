@@ -1,6 +1,6 @@
-Hello, welcome to my Github! I am a Junior at Rutgers university who enjoys learning about and working on coding projects.
+Hello, welcome to my Github! I am a graduating senior at Rutgers university who enjoys learning about and working on coding projects.
 
-I’m currently working on my skills in Java via my discord bot, Mr. Moon, which I was inclined to start building after previous bots in the same niche stopped their services.
+I’m currently working on my skills with microcontrollers through a self watering plant bed system utilizing hydrometers.
 
 
 
